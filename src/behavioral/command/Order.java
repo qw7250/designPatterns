@@ -1,2 +1,5 @@
-package behavioral.command;public interface Order {
+package behavioral.command;
+
+public interface Order {
+    void execude();
 }
